@@ -1,0 +1,15 @@
+Todos los programas que se ejecutaron hasta el momento requerían de ingreso de datos para
+realizar determinadas tares y luego mostrar resultados. Tales programas tienen un gran
+defecto y es que los datos que se cargan desaparecen cuando el programa termina, por lo
+tanto cada vez que se corra el programa hay que cargar los datos nuevamente.
+Esto ocurre debido a que los datos ingresados quedan guardados en memoria y al terminar el
+programa todos los espacios de memoria reservados son devueltos al sistema operativo
+perdiendo todos los datos que se habían cargado.
+Para solucionar el problema debería existir una forma de almacenar los datos en forma
+permanente, por ejemplo en un medio como el disco rígido. Los datos que se ingresan se
+deberán guardar en un archivo que se almacena en el disco de forma de disponer de la
+información en cualquier momento.
+De tal forma si por ejemplo trabajamos con un programa de agenda, en la cual se cargan los
+datos de personas, cada vez que se ejecute el programa se ira a leer el archivo que contiene
+los datos de las personas , en lugar de tener que ingresarlos cada vez .
+a ver si me lo permite

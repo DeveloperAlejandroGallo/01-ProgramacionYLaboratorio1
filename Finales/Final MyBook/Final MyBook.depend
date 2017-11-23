@@ -1,0 +1,111 @@
+# depslib dependency file v1.0
+1498339239 source:c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\codigo\final mybook\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1496711761 c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\codigo\final mybook\arraylist.h
+
+1499817993 source:c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\codigo\final mybook\datos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Datos.h"
+
+1498264246 c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\codigo\final mybook\datos.h
+
+1499817933 source:c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\codigo\final mybook\feed.c
+	<stdio.h>
+	<stdlib.h>
+	"Datos.h"
+	"ArrayList.h"
+	"Feed.h"
+	"Post.h"
+	"Usuarios.h"
+
+1499817915 c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\codigo\final mybook\feed.h
+
+1499818143 c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\codigo\final mybook\post.h
+
+1499818196 c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\codigo\final mybook\usuarios.h
+
+1499818014 source:c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\codigo\final mybook\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Datos.h"
+	"ArrayList.h"
+	"Post.h"
+	"Usuarios.h"
+	"Feed.h"
+
+1499818143 source:c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\codigo\final mybook\post.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"ArrayList.h"
+	"Post.h"
+
+1499818205 source:c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\codigo\final mybook\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	"Datos.h"
+	"ArrayList.h"
+	"Usuarios.h"
+
+1498339239 source:c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\finales\final mybook\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1496711761 c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\finales\final mybook\arraylist.h
+
+1499817993 source:c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\finales\final mybook\datos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Datos.h"
+
+1498264246 c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\finales\final mybook\datos.h
+
+1499911905 source:c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\finales\final mybook\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Datos.h"
+	"ArrayList.h"
+	"Post.h"
+	"Usuarios.h"
+	"Feed.h"
+
+1499908657 c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\finales\final mybook\post.h
+
+1499818196 c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\finales\final mybook\usuarios.h
+
+1499908825 c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\finales\final mybook\feed.h
+
+1499908849 source:c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\finales\final mybook\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	"Datos.h"
+	"ArrayList.h"
+	"Usuarios.h"
+
+1499911905 source:c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\finales\final mybook\feed.c
+	<stdio.h>
+	<stdlib.h>
+	"Datos.h"
+	"ArrayList.h"
+	"Feed.h"
+	"Post.h"
+	"Usuarios.h"
+
+1499908641 source:c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\finales\final mybook\post.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"ArrayList.h"
+	"Post.h"
+

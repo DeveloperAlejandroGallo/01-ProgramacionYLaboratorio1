@@ -1,0 +1,10 @@
+FUNCIONES:
+
+Micro programas reutilizables.
+
+
+En el cuerpo de la funcion, los parametros q recibe son los parametros FORMALES.
+Los que estan dentro de la funcion son los actuales.
+
+Docsy Gen
+Documenta la funcion

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1493081786 source:d:\mis documentos\ale gallo\netflix\netflix\funcnetflix.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	"funcNetflix.h"
+
+1493073742 d:\mis documentos\ale gallo\netflix\netflix\funcnetflix.h
+
+1493081478 source:d:\mis documentos\ale gallo\netflix\netflix\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	"funcNetflix.h"
+

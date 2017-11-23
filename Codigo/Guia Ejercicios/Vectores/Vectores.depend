@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1491776311 source:c:\ale\development\tsp\01 - prog y lab 1\guia ejercicios\vectores\galloalejandro.c
+	<stdio.h>
+	"GalloAlejandro.h"
+
+1491776507 c:\ale\development\tsp\01 - prog y lab 1\guia ejercicios\vectores\galloalejandro.h
+
+1491776551 source:c:\ale\development\tsp\01 - prog y lab 1\guia ejercicios\vectores\main.c
+	<stdio.h>
+	<stdlib.h>
+	"GalloAlejandro.h"
+

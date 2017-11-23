@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1498339239 source:c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\finales\final musica online\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1496711761 c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\finales\final musica online\arraylist.h
+
+1499957248 source:c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\finales\final musica online\datos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Datos.h"
+
+1498264246 c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\finales\final musica online\datos.h
+
+1499965852 source:c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\finales\final musica online\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Datos.h"
+	"Usuarios.h"
+	"Temas.h"
+	"Estadisticas.h"
+
+1499960401 c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\finales\final musica online\usuarios.h
+
+1499965074 c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\finales\final musica online\temas.h
+
+1499966054 source:c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\finales\final musica online\temas.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Datos.h"
+	"Temas.h"
+
+1499965122 source:c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\finales\final musica online\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Datos.h"
+	"Usuarios.h"
+
+1499965911 source:c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\finales\final musica online\estadisticas.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Datos.h"
+	"Temas.h"
+	"Estadisticas.h"
+
+1499964967 c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\finales\final musica online\estadisticas.h
+

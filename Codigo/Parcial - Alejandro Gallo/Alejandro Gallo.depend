@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1494882812 source:c:\users\usuario\desktop\parcial - alejandro gallo\datos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"datos.h"
+
+1495288334 c:\users\usuario\desktop\parcial - alejandro gallo\datos.h
+
+1495401875 source:c:\users\usuario\desktop\parcial - alejandro gallo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib.h"
+	"datos.h"
+
+1495390639 c:\users\usuario\desktop\parcial - alejandro gallo\lib.h
+
+1495402065 source:c:\users\usuario\desktop\parcial - alejandro gallo\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"lib.h"
+
+1494882812 source:c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\codigo\parcial - alejandro gallo\datos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"datos.h"
+
+1495288334 c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\codigo\parcial - alejandro gallo\datos.h
+
+1495420979 source:c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\codigo\parcial - alejandro gallo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib.h"
+	"datos.h"
+
+1495428751 c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\codigo\parcial - alejandro gallo\lib.h
+
+1495428752 source:c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\codigo\parcial - alejandro gallo\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"lib.h"
+

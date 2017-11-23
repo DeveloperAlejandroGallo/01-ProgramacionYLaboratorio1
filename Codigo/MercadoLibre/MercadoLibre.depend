@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1494210232 source:c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\codigo\mercadolibre\datos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"datos.h"
+	"lib.h"
+
+1494209067 c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\codigo\mercadolibre\datos.h
+
+1494207500 c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\codigo\mercadolibre\lib.h
+
+1494210383 source:c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\codigo\mercadolibre\lib.c
+	<string.h>
+	"lib.h"
+
+1494204757 source:c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\codigo\mercadolibre\main.c
+	<stdio.h>
+	<stdlib.h>
+	"datos.h"
+	"lib.h"
+

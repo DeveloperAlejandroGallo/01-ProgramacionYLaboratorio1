@@ -1,0 +1,10 @@
+fecha y hora del sistema  include<windows.h>
+tiene estructura SYSTEMTIME  fecha;
+
+fecha=getsystemtime(&fecha) hora mundial
+
+GetLocalTime (&fecha); parametro  pasar por parametro la estructura SYSTEMTIME
+
+printf("fecha %2d /%2d/%2d/%4d hora:%02d:%02d:%02d\n",fecha.wDay,fecha.wMonth,fecha.wYear,fecha.wHour,fecha.wMinute,fecha.wSegundo);
+
+

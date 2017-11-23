@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1498339239 source:d:\ale gallo\gallo.alejandro\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1496711761 d:\ale gallo\gallo.alejandro\arraylist.h
+
+1498514153 source:d:\ale gallo\gallo.alejandro\datos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Datos.h"
+
+1498264246 d:\ale gallo\gallo.alejandro\datos.h
+
+1498518090 source:d:\ale gallo\gallo.alejandro\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Datos.h"
+	"Tarea.h"
+
+1498518073 d:\ale gallo\gallo.alejandro\tarea.h
+
+1498519427 source:d:\ale gallo\gallo.alejandro\tarea.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Datos.h"
+	"Tarea.h"
+

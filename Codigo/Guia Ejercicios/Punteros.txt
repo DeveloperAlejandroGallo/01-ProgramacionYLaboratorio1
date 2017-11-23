@@ -1,0 +1,33 @@
+En la memoria dinamica se guardan las variables que se estan utilizando.
+Enn forma de stack (pila).
+
+Las variables globales van a parar a la estatica.
+
+
+
+Punteros:
+FORMA 1:
+
+(*estructura): Para obtener el la variable en si.
+&(*estructura): Para asignar valor.
+
+
+
+malloc pide mem en tiempo de ejecucion.
+
+RECORDAR!!!!
+Cuando se pasa un vector no usar el &
+
+realloc(Param1, Param2): 
+*Para agrandar la memoria de algo que ya pedi.
+param1: 
+
+		 
+ARCHIVOS:
+1- Binarios 
+2- Texto
+
+
+
+
+

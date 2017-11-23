@@ -1,0 +1,31 @@
+Programacion
+
+Siempre fflush antes de cada string o char
+La asignacion de una estructura a otra es directa.
+Ambos tienen q ser del mismo tipo de objeto.
+
+
+strlen
+strcpy -> Para pasar de una cadena a otra
+
+
+Validar fecha
+Bisiesto multiplo de 100 pero no de 400
+Cant de dias del mes
+
+if ((anio % 4 == 0) && ((anio % 100 != 0) || (anio % 400 == 0)))
+	bisiesto
+else
+	no
+
+
+Las struct se declaran en el h
+
+*****************
+Inicializar los id en -1 como bandera.
+Para las altas buscar el primer elemento en -1
+
+No mostrar las bajas logicas.
+
+
+

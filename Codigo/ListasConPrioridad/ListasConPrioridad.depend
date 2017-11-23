@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1498339239 source:c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\codigo\listasconprioridad\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1496711761 c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\codigo\listasconprioridad\arraylist.h
+
+1498263484 source:c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\codigo\listasconprioridad\cliente.c
+
+1498421771 source:c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\codigo\listasconprioridad\datos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Datos.h"
+
+1498264246 c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\codigo\listasconprioridad\datos.h
+
+1498423933 source:c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\codigo\listasconprioridad\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Datos.h"
+	"Tramite.h"
+
+1498426171 c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\codigo\listasconprioridad\tramite.h
+
+1498430004 source:c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\codigo\listasconprioridad\tramite.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Datos.h"
+	"Tramite.h"
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1490057040 source:c:\ale\development\tsp\01 - prog y lab 1\programacionylaboratorio1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Ej01.h"
+
+1490056928 source:c:\ale\development\tsp\01 - prog y lab 1\programacionylaboratorio1\ej01.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1490056928 c:\ale\development\tsp\01 - prog y lab 1\programacionylaboratorio1\ej01.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

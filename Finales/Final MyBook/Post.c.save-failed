@@ -1,0 +1,13 @@
+#include <stdlib.h>
+#include "ArrayList.h"
+
+typedef struct
+{
+    int id;
+    char mensaje[500];
+    int popularidad;
+    int idUsrPublicacion;
+}sPost;
+
+
+

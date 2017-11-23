@@ -1,0 +1,9 @@
+Funcion 
+--Espera el ingreso por teclado de un unico caracter
+getch()  -- Toma 1 caracter No lo devualve por pantalla
+getche() -- Toma 1 caracter lo devuelve por pantalla 
+getchar() -- Permite ingresar una cadena y corregirla esperando un enter, pero solo toma el 1er caracter.
+
+x = tolower(getche()); --Espera que el usr ingrese un caracter y lo pasa a la variable en minuscula.
+x = toupper(getche());
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1490661874 source:c:\ale\development\tsp\01 - prog y lab 1\funciones\prot1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"miLibreria.h"
+
+1490662693 c:\ale\development\tsp\01 - prog y lab 1\funciones\prot1\milibreria.h
+
+1490661873 source:c:\ale\development\tsp\01 - prog y lab 1\funciones\prot1\milibreria.c
+	"MiLibreria.h"
+

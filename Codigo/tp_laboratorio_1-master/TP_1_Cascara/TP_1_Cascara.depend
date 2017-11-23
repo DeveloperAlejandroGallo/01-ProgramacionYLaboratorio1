@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1490877401 source:f:\utn\programacion 1\tp_1_cascara\alegallolib.c
+	<stdio.h>
+	"AleGalloLib.h"
+
+1490877362 f:\utn\programacion 1\tp_1_cascara\alegallolib.h
+
+1491003201 source:c:\ale\development\tsp\01 - prog y lab 1\tp_1_cascara\alegallolib.c
+	<stdio.h>
+	"AleGalloLib.h"
+
+1491003177 c:\ale\development\tsp\01 - prog y lab 1\tp_1_cascara\alegallolib.h
+
+1491005835 source:c:\ale\development\tsp\01 - prog y lab 1\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<AleGalloLib.h>
+
+1491006364 source:c:\ale\development\tsp\01 - prog y lab 1\#entregas\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<GalloAlejandro.h>
+
+1491497418 source:c:\ale\descargas\tp_laboratorio_1-master\tp_laboratorio_1-master\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"GalloAlejandro.h"
+
+1491159601 c:\ale\descargas\tp_laboratorio_1-master\tp_laboratorio_1-master\tp_1_cascara\galloalejandro.h
+	<stdio.h>
+
+1491604948 source:c:\ale\development\tsp\01 - prog y lab 1\tp_laboratorio_1-master\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"GalloAlejandro.h"
+
+1491604628 c:\ale\development\tsp\01 - prog y lab 1\tp_laboratorio_1-master\tp_1_cascara\galloalejandro.h
+
+1491604718 source:c:\ale\development\tsp\01 - prog y lab 1\tp_laboratorio_1-master\tp_1_cascara\galloalejandro.c
+	<stdio.h>
+	"GalloAlejandro.h"
+
+1491499138 c:\ale\development\tsp\01 - prog y lab 1\tp_laboratorio_1-master\tp_1_cascara\galloalejandro.c
+	<stdio.h>
+	"GalloAlejandro.h"
+

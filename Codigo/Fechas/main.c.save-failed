@@ -1,0 +1,28 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <windows.h>
+
+int main()
+{
+    SYSTEMTIME fecha;
+    GetLocalTime(&fecha);
+
+    int edadDia, edadMes, edadAnio, dia, mes, anio;
+    printf("Ingrese dia de Nac:");
+    scanf("%d",&edadDia);
+    scanf("%d",&edadMes);
+    scanf("%d",&edadAnio);
+
+    dia = fecha.wDay;
+    mes = fecha.wMonth;
+    anio = fecha.wYear;
+
+    printf("Fecha Actual: %2d/%2d/%4d",dia,mes,anio);
+
+    printf("Fecha Nacimiento: %2d/%2d/%4d ",edadDia,edadMes,edadAnio);
+
+
+
+
+    return 0;
+}

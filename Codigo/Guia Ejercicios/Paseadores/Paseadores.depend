@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1494184035 source:c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\codigo\guia ejercicios\paseadores\datos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"datos.h"
+	"paseadores.h"
+
+1494184035 c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\codigo\guia ejercicios\paseadores\datos.h
+
+1494187439 c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\codigo\guia ejercicios\paseadores\paseadores.h
+
+1494187445 source:c:\ale\documentos\google drive\utn\fra\01 - programacion y laboratorio 1\codigo\guia ejercicios\paseadores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datos.h"
+	"paseadores.h"
+

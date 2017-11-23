@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1494891208 source:d:\mis documentos\ale gallo\matrix\lineascolectivos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

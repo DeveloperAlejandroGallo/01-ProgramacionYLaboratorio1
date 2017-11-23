@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1492820760 source:c:\ale\development\tsp\01 - prog y lab 1\guia ejercicios\strings\estructura\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
